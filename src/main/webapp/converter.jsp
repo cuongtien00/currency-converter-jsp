@@ -17,6 +17,10 @@
 
 %>
 <body>
+<h1>Rate: <%=rate
+%></h1>
+<h1>USD: <%=usd
+%></h1>
 <h1>
    Result: <%=amount
     %>VND

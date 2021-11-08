@@ -14,10 +14,9 @@
   <h2>Currency Converter</h2>
   <form action="converter.jsp">
     <label >Rate</label><br>
-    <input type="text" name="Rate" placeholder="Nhap ty gia">
-    <lable>USD</lable>
-    <br>
-    <input type="text" name="USD">
+    <input type="text" name="Rate" placeholder="Nhap ty gia"><br>
+    <lable>USD</lable><br>
+    <input type="text" name="USD" placeholder="USD">
     <input type="submit" id="submit" value="Converter">
     <br>
   </form>
